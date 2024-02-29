@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.74208f98.chunk.css",
-    "main.js": "/static/js/main.5d912024.chunk.js",
-    "main.js.map": "/static/js/main.5d912024.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ad8591a0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ad8591a0.js.map",
-    "static/js/2.81a8dfc8.chunk.js": "/static/js/2.81a8dfc8.chunk.js",
-    "static/js/2.81a8dfc8.chunk.js.map": "/static/js/2.81a8dfc8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.74208f98.chunk.css.map": "/static/css/main.74208f98.chunk.css.map",
-    "static/js/2.81a8dfc8.chunk.js.LICENSE.txt": "/static/js/2.81a8dfc8.chunk.js.LICENSE.txt",
-    "static/media/sushi.a2b4b921.jpg": "/static/media/sushi.a2b4b921.jpg"
+    "main.css": "/SushiDelivery%20/static/css/main.74208f98.chunk.css",
+    "main.js": "/SushiDelivery%20/static/js/main.5d912024.chunk.js",
+    "main.js.map": "/SushiDelivery%20/static/js/main.5d912024.chunk.js.map",
+    "runtime-main.js": "/SushiDelivery%20/static/js/runtime-main.a71c1c14.js",
+    "runtime-main.js.map": "/SushiDelivery%20/static/js/runtime-main.a71c1c14.js.map",
+    "static/js/2.81a8dfc8.chunk.js": "/SushiDelivery%20/static/js/2.81a8dfc8.chunk.js",
+    "static/js/2.81a8dfc8.chunk.js.map": "/SushiDelivery%20/static/js/2.81a8dfc8.chunk.js.map",
+    "index.html": "/SushiDelivery%20/index.html",
+    "static/css/main.74208f98.chunk.css.map": "/SushiDelivery%20/static/css/main.74208f98.chunk.css.map",
+    "static/js/2.81a8dfc8.chunk.js.LICENSE.txt": "/SushiDelivery%20/static/js/2.81a8dfc8.chunk.js.LICENSE.txt",
+    "static/media/sushi.a2b4b921.jpg": "/SushiDelivery%20/static/media/sushi.a2b4b921.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad8591a0.js",
+    "static/js/runtime-main.a71c1c14.js",
     "static/js/2.81a8dfc8.chunk.js",
     "static/css/main.74208f98.chunk.css",
     "static/js/main.5d912024.chunk.js"
